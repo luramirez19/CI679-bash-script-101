@@ -3,7 +3,7 @@
 ### Ingeniería en Ciencias de la Computación  
 
 ## CI679 - Desarrollo Basado en Plataformas  
-### Práctica | Desarrollo de scripts en Bash con pruebas automatizadas  
+### Tarea | Desarrollo de scripts en Bash con pruebas automatizadas  
 
 Este proyecto consiste en la creación de un conjunto de scripts en **Bash** diseñados para resolver problemas computacionales comunes. Además, se implementan pruebas automatizadas con **Bats (Bash Automated Testing System)** para validar el correcto funcionamiento de cada script. El desarrollo sigue la metodología **Red-Green-Refactor** y el código se gestiona con Git en un repositorio de **GitHub Classroom**.
 
